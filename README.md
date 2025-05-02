@@ -81,7 +81,7 @@ El script `lanza.pl` fue modificado para automatizar la ejecución de las prueba
 ## 📌 Requisitos
 
 - Sistema operativo Linux
-- `gcc` con soporte para OpenMP
+- `gcc` 
 - Perl (para ejecutar `lanza.pl`)
 
 --- 
