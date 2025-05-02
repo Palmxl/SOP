@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+## 📌 Descripción del taller
 
 Este taller tiene como objetivo comparar el rendimiento de la multiplicación clásica de matrices bajo diferentes enfoques de paralelismo y configuraciones de hardware. Se busca medir los tiempos de ejecución y analizar cómo varía el rendimiento al utilizar distintas técnicas de programación concurrente:
 
