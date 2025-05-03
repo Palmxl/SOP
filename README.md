@@ -2,7 +2,7 @@
 # Taller de Evaluación de Rendimiento  
 **Curso:** Sistemas Operativos 
 **Universidad:** Pontificia Universidad Javeriana  
-**Estudiante:** Juan Martín Sánchez
+**Estudiante:** Juan Martín Sánchez   
 **Fecha:** Mayo 2 del 2025  
 
 ---
